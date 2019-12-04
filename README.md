@@ -9,7 +9,11 @@
 
 ## Go to https://www.mysql.com/downloads/
 
-![hh](\Images\1.PNG)
+![1](Images/1.PNG)
+![2](Images/1.PNG?raw=true “Title”)
+![3](Images/1.png?raw=true “Title”)
+
+
 
 ## For windows users Important
 MySQL Community Server requires the
