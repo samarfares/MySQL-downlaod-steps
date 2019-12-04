@@ -20,47 +20,47 @@ system before installing the server. The package
 is available at the
 https://visualstudio.microsoft.com/downloads/
 
-![Alt Text](Images/required.png)
+![Alt Text](Images/required.PNG)
 
-![Alt Text](Images/2.png)
+![Alt Text](Images/2.PNG)
 
-![Alt Text](Images/3.png)
+![Alt Text](Images/3.PNG)
 
 Click run
 
-![Alt Text](Images/4.png)
+![Alt Text](Images/4.PNG)
 
 Choose Developer Default
 
-![Alt Text](Images/5.png)
+![Alt Text](Images/5.PNG)
 
 Execute
 
-![Alt Text](Images/6.png)
+![Alt Text](Images/6.PNG)
 
-![Alt Text](Images/7.png)
+![Alt Text](Images/7.PNG)
 
-![Alt Text](Images/config1.png)
+![Alt Text](Images/config1.PNG)
 
-![Alt Text](Images/config2.png)
+![Alt Text](Images/config2.PNG)
 
-![Alt Text](Images/config3.png)
+![Alt Text](Images/config3.PNG)
 
-![Alt Text](Images/config4.png)
+![Alt Text](Images/config4.PNG)
 
-![Alt Text](Images/config5.png)
+![Alt Text](Images/config5.PNG)
 
-![Alt Text](Images/config6.png)
+![Alt Text](Images/config6.PNG)
 
-![Alt Text](Images/config7.png)
+![Alt Text](Images/config7.PNG)
 
-![Alt Text](Images/config8.png)
+![Alt Text](Images/config8.PNG)
 
-![Alt Text](Images/config9.png)
+![Alt Text](Images/config9.PNG)
 
-![Alt Text](Images/config10.png)
+![Alt Text](Images/config10.PNG)
 
-![Alt Text](Images/installComplete.png)
+![Alt Text](Images/installComplete.PNG)
 
 
 ## For Mac users 
