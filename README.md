@@ -9,7 +9,7 @@
 
 ## Go to https://www.mysql.com/downloads/
 
-![hh](\Images\1.png)
+![hh](\Images\1.PNG)
 
 ## For windows users Important
 MySQL Community Server requires the
