@@ -10,10 +10,6 @@
 ## Go to https://www.mysql.com/downloads/
 
 ![1](Images/1.PNG)
-![2](Images/1.PNG?raw=true “Title”)
-![3](Images/1.png?raw=true “Title”)
-
-
 
 ## For windows users Important
 MySQL Community Server requires the
@@ -24,47 +20,47 @@ system before installing the server. The package
 is available at the
 https://visualstudio.microsoft.com/downloads/
 
-![Alt Text](/Images/required.png)
+![Alt Text](Images/required.png)
 
-![Alt Text](/Images/2.png)
+![Alt Text](Images/2.png)
 
-![Alt Text](/Images/3.png)
+![Alt Text](Images/3.png)
 
 Click run
 
-![Alt Text](/Images/4.png)
+![Alt Text](Images/4.png)
 
 Choose Developer Default
 
-![Alt Text](/Images/5.png)
+![Alt Text](Images/5.png)
 
 Execute
 
-![Alt Text](/Images/6.png)
+![Alt Text](Images/6.png)
 
-![Alt Text](/Images/7.png)
+![Alt Text](Images/7.png)
 
-![Alt Text](/Images/config1.png)
+![Alt Text](Images/config1.png)
 
-![Alt Text](/Images/config2.png)
+![Alt Text](Images/config2.png)
 
-![Alt Text](/Images/config3.png)
+![Alt Text](Images/config3.png)
 
-![Alt Text](/Images/config4.png)
+![Alt Text](Images/config4.png)
 
-![Alt Text](/Images/config5.png)
+![Alt Text](Images/config5.png)
 
-![Alt Text](/Images/config6.png)
+![Alt Text](Images/config6.png)
 
-![Alt Text](/Images/config7.png)
+![Alt Text](Images/config7.png)
 
-![Alt Text](/Images/config8.png)
+![Alt Text](Images/config8.png)
 
-![Alt Text](/Images/config9.png)
+![Alt Text](Images/config9.png)
 
-![Alt Text](/Images/config10.png)
+![Alt Text](Images/config10.png)
 
-![Alt Text](/Images/installComplete.png)
+![Alt Text](Images/installComplete.png)
 
 
 ## For Mac users 
