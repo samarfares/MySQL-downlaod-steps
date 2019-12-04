@@ -65,6 +65,41 @@ Execute
 
 ## For Mac users 
 
+Choose MySQL community server 
+
+![Alt Text](Images/2.PNG)
+
+![Alt Text](Images/mac1.PNG)
+
+Click No thanks, just start my download
 
 
-Click No thanks, just start my downloadGo back to install WorkbenchFor workbench : drag and drop to applications
+Go back to install Workbench
+
+![Alt Text](Images/2.PNG)
+
+![Alt Text](Images/mac3.PNG)
+
+![Alt Text](Images/mac4.PNG)
+
+![Alt Text](Images/mac5.PNG)
+
+![Alt Text](Images/mac6.PNG)
+
+![Alt Text](Images/mac7.PNG)
+
+![Alt Text](Images/mac8.PNG)
+
+![Alt Text](Images/mac9.PNG)
+
+![Alt Text](Images/mac10.PNG)
+
+![Alt Text](Images/mac11.PNG)
+
+
+For workbench : drag and drop to applications
+
+![Alt Text](Images/work1.PNG)
+
+![Alt Text](Images/wlcome.PNG)
+
